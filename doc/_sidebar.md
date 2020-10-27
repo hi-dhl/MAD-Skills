@@ -1,4 +1,4 @@
-* [导读](./readme.md)
+* [导读](./)
 
 * [什么是 MAD-Skills](./video/01-what-mad.md)
 

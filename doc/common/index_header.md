@@ -26,21 +26,12 @@ MAD-Skills
 ├── media       // 图片资源
 ```
 
-## 目录
+## 联系我
 
-* [导读](./readme.md)
+* 个人微信：hi-dhl
+* 公众号：ByteCode，包含 Jetpack ，Kotlin ，Android 10 系列源码，译文，LeetCode / 剑指 Offer / 多线程 / 国内外大厂算法题 等等一系列文章
 
-* [什么是 MAD-Skills](./video/01-what-mad.md)
-
-* Navigation 系列
-    
-    * [什么是 Navigation](./video/02-Navigation.md)
-    * [Navigation 概述](./video/03-Navigation-Overview.md)
-    * [使用 Navigation](./video/04-Navigation-Dialog-destinations.md)
-    * [SafeArgs 的使用](./video/05-Navigation-SafeArgs.md)
-    * [Deep links 的使用](./video/06-Navigation-Deep-links.md)
-
-
+<img src='http://cdn.51git.cn/2020-10-20-151047.png' width = 350px/>
 
 
 
